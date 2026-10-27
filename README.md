@@ -70,7 +70,7 @@ The following table benchmarks category-leading Enterprise Asset Management SaaS
 
 Sovereign open-source solutions allow organizations to build tailored asset tracking, preventive maintenance, and work order infrastructure without per-user licensing fees or data lock-in. 
 
-The projects below are **sorted in descending order by GitHub Stars_Count**:
+The projects below are **sorted in descending order by GitHub_Stars_Count**:
 
 1. **[ERPNext (Asset & Maintenance Module)](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Comprehensive Open-Source Enterprise Resource Planning (ERP)*  
