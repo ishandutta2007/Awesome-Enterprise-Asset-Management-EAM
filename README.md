@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM?style=flat-square&color=orange" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Asset-Management-EAM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License: CC0 1.0"/></a>
@@ -70,79 +70,79 @@ The following table benchmarks category-leading Enterprise Asset Management SaaS
 
 Sovereign open-source solutions allow organizations to build tailored asset tracking, preventive maintenance, and work order infrastructure without per-user licensing fees or data lock-in. 
 
-The projects below are **sorted in descending order by GitHub Star count**:
+The projects below are **sorted in descending order by GitHub Stars_Count**:
 
-1. **[ERPNext (Asset & Maintenance Module)](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+1. **[ERPNext (Asset & Maintenance Module)](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Comprehensive Open-Source Enterprise Resource Planning (ERP)*  
    Features a battle-tested **Asset Management & Maintenance** module covering end-to-end fixed asset lifecycles: capital acquisition, automated straight-line and double-declining depreciation calculations, asset maintenance visits, recurring maintenance schedules, work order costing, and insurance tracking. Built on Python Frappe and MariaDB.  
    `License: GPL-3.0` | `Stack: Python / JavaScript / MariaDB`
 
-2. **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+2. **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
    *Premier Infrastructure & Physical Asset Source of Truth*  
    The gold standard for physical IT/OT hardware asset management, Data Center Infrastructure Management (DCIM), and IPAM. Models complex physical asset hierarchies, equipment racks, device power distribution (PDUs), linear cable runs, physical device elevations, and multi-tenant site locations.  
    `License: Apache-2.0` | `Stack: Python / Django / PostgreSQL`
 
-3. **[Snipe-IT](https://github.com/grokability/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white)](https://github.com/grokability/snipe-it/stargazers)  
+3. **[Snipe-IT](https://github.com/grokability/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white)](https://github.com/grokability/snipe-it/stargazers)  
    *Open-Source IT & Physical Equipment Asset Management*  
    Widely adopted asset tracker built for managing hardware, machinery, office tools, and consumables. Features rapid check-in/check-out workflows, barcode and QR label printing, digital signature acceptance, asset maintenance logs, warranty tracking, and financial depreciation schedules.  
    `License: AGPL-3.0` | `Stack: PHP / Laravel / MySQL`
 
-4. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+4. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
    *Open-Source Inventory, Parts & Equipment Asset Management*  
    Designed for engineering operations, manufacturing assembly, and maintenance workshops. Provides multi-level location hierarchies, batch and serial number tracking, bill of materials (BOM), supplier part catalogs, stock alerts, and companion mobile apps for quick barcode updates.  
    `License: MIT` | `Stack: Python / Django / React`
 
-5. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+5. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
    *Full-Scale Asset & Service Desk Management System*  
    Mature open-source platform combining ITIL service desk workflows with comprehensive physical asset management. Tracks data center racks, server clusters, network topologies, administrative licenses, maintenance vendor contracts, and scheduled servicing intervals.  
    `License: GPL-3.0` | `Stack: PHP / JavaScript / MariaDB`
 
-6. **[Grash CMMS (Atlas CMMS)](https://github.com/Grashjs/cmms)** [![GitHub stars](https://img.shields.io/github/stars/Grashjs/cmms?style=social&color=white)](https://github.com/Grashjs/cmms/stargazers)  
+6. **[Grash CMMS (Atlas CMMS)](https://github.com/Grashjs/cmms)** [![GitHub_Stars](https://img.shields.io/github/stars/Grashjs/cmms?style=social&color=white)](https://github.com/Grashjs/cmms/stargazers)  
    *Modern Open-Source Self-Hosted CMMS Platform*  
    Feature-complete self-hosted CMMS with web and mobile applications. Includes work order assignment and time-logging, automated preventive maintenance routines, asset downtime histories, spare parts stock alerts, purchase order workflows, and Google Maps geographical asset mapping.  
    `License: GPL-3.0` | `Stack: Java / Spring Boot / React / React Native`
 
-7. **[DataGerry](https://github.com/DataGerry/DataGerry)** [![GitHub stars](https://img.shields.io/github/stars/DataGerry/DataGerry?style=social&color=white)](https://github.com/DataGerry/DataGerry/stargazers)  
+7. **[DataGerry](https://github.com/DataGerry/DataGerry)** [![GitHub_Stars](https://img.shields.io/github/stars/DataGerry/DataGerry?style=social&color=white)](https://github.com/DataGerry/DataGerry/stargazers)  
    *Flexible Open-Source CMDB & Asset Data Modeling Engine*  
    Allows organizations to model custom physical and digital asset schemas without rigid database constraints. Features custom type builders, relational graph mappings, external system sync bridges, and high-performance REST APIs.  
    `License: Apache-2.0` | `Stack: Python / Angular`
 
-8. **[Odoo EAM Module](https://github.com/codup/odoo-eam)** [![GitHub stars](https://img.shields.io/github/stars/codup/odoo-eam?style=social&color=white)](https://github.com/codup/odoo-eam/stargazers)  
+8. **[Odoo EAM Module](https://github.com/codup/odoo-eam)** [![GitHub_Stars](https://img.shields.io/github/stars/codup/odoo-eam?style=social&color=white)](https://github.com/codup/odoo-eam/stargazers)  
    *Enterprise Asset Management Extension for Odoo*  
    Community EAM suite for Odoo environments. Enforces asset hierarchies, work orders, preventive maintenance schedules, meter readings, calibration tracking, and equipment downtime metrics tightly integrated with Odoo Inventory and Accounting.  
    `License: LGPL-3.0` | `Stack: Python / JavaScript / PostgreSQL`
 
-9. **[RemonAlbear CMMS](https://github.com/remonalbear/CMMS)** [![GitHub stars](https://img.shields.io/github/stars/remonalbear/CMMS?style=social&color=white)](https://github.com/remonalbear/CMMS/stargazers)  
+9. **[RemonAlbear CMMS](https://github.com/remonalbear/CMMS)** [![GitHub_Stars](https://img.shields.io/github/stars/remonalbear/CMMS?style=social&color=white)](https://github.com/remonalbear/CMMS/stargazers)  
    *Computerized Maintenance Management System Project*  
    Open-source maintenance management system for managing internal maintenance tasks, tracking machine downtime, dispatching corrective repair orders, and managing maintenance technician labor hours.  
    `License: Open Source` | `Stack: PHP / MySQL`
 
-10. **[Maintenance Laravel](https://github.com/liberusoftware/maintenance-laravel)** [![GitHub stars](https://img.shields.io/github/stars/liberusoftware/maintenance-laravel?style=social&color=white)](https://github.com/liberusoftware/maintenance-laravel/stargazers)  
+10. **[Maintenance Laravel](https://github.com/liberusoftware/maintenance-laravel)** [![GitHub_Stars](https://img.shields.io/github/stars/liberusoftware/maintenance-laravel?style=social&color=white)](https://github.com/liberusoftware/maintenance-laravel/stargazers)  
     *Laravel & Filament Admin CMMS Application*  
     Modern maintenance management application designed for industrial facilities. Features equipment tracking, scheduled work orders, preventive checklists, technician assignments, and an intuitive Filament-powered admin dashboard.  
     `License: MIT` | `Stack: PHP 8.x / Laravel / Filament`
 
-11. **[SuperCMMS](https://github.com/SuperCMMS/Open-Source-CMMS)** [![GitHub stars](https://img.shields.io/github/stars/SuperCMMS/Open-Source-CMMS?style=social&color=white)](https://github.com/SuperCMMS/Open-Source-CMMS/stargazers)  
+11. **[SuperCMMS](https://github.com/SuperCMMS/Open-Source-CMMS)** [![GitHub_Stars](https://img.shields.io/github/stars/SuperCMMS/Open-Source-CMMS?style=social&color=white)](https://github.com/SuperCMMS/Open-Source-CMMS/stargazers)  
     *Headless Open-Source CMMS Backend*  
     Backend API engine specifically built so organizations can assemble bespoke maintenance portals and technician apps. Implements asset registries, preventive/predictive work orders, inspection checklists, QR identification, and file attachment storage.  
     `License: AGPL-3.0` | `Stack: TypeScript / Node.js`
 
-12. **[LibreMaint](https://github.com/lowag/libremaint)** [![GitHub stars](https://img.shields.io/github/stars/lowag/libremaint?style=social&color=white)](https://github.com/lowag/libremaint/stargazers)  
+12. **[LibreMaint](https://github.com/lowag/libremaint)** [![GitHub_Stars](https://img.shields.io/github/stars/lowag/libremaint?style=social&color=white)](https://github.com/lowag/libremaint/stargazers)  
     *Lightweight CMMS for Workshop & Plant Maintenance*  
     Focused, no-bloat CMMS for logging maintenance jobs, scheduling recurring equipment servicings, and reviewing historical intervention logs on industrial machines.  
     `License: GPL-3.0` | `Stack: PHP / MySQL`
 
-13. **[CalemEAM Community](https://github.com/calemcme/CalemEAM)** [![GitHub stars](https://img.shields.io/github/stars/calemcme/CalemEAM?style=social&color=white)](https://github.com/calemcme/CalemEAM/stargazers)  
+13. **[CalemEAM Community](https://github.com/calemcme/CalemEAM)** [![GitHub_Stars](https://img.shields.io/github/stars/calemcme/CalemEAM?style=social&color=white)](https://github.com/calemcme/CalemEAM/stargazers)  
     *Enterprise Asset Management Platform*  
     Commercial open-source EAM providing modular building blocks for multi-site asset tracking, preventive maintenance task chains, work orders, requisition workflows, and role-based operational permissions.  
     `License: GPL-2.0` | `Stack: PHP / JavaScript / MySQL`
 
-14. **[Microsoft Dynamics 365 Asset Management Mobile](https://github.com/microsoft/scmsamples-EnterpriseAssetManagement)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/scmsamples-EnterpriseAssetManagement?style=social&color=white)](https://github.com/microsoft/scmsamples-EnterpriseAssetManagement/stargazers)  
+14. **[Microsoft Dynamics 365 Asset Management Mobile](https://github.com/microsoft/scmsamples-EnterpriseAssetManagement)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/scmsamples-EnterpriseAssetManagement?style=social&color=white)](https://github.com/microsoft/scmsamples-EnterpriseAssetManagement/stargazers)  
     *Open-Source EAM Mobile Client for Dynamics 365*  
     MIT-licensed source code for Microsoft's Dynamics 365 Supply Chain Asset Management mobile app. Allows enterprise teams to build, customize, and deploy bespoke mobile experiences for field work orders, maintenance requests, and spare part consumption.  
     `License: MIT` | `Stack: TypeScript / React Native`
 
-15. **[GMAO Factory](https://github.com/jsbsan/GMAO-FACTORY)** [![GitHub stars](https://img.shields.io/github/stars/jsbsan/GMAO-FACTORY?style=social&color=white)](https://github.com/jsbsan/GMAO-FACTORY/stargazers)  
+15. **[GMAO Factory](https://github.com/jsbsan/GMAO-FACTORY)** [![GitHub_Stars](https://img.shields.io/github/stars/jsbsan/GMAO-FACTORY?style=social&color=white)](https://github.com/jsbsan/GMAO-FACTORY/stargazers)  
     *Air-Gapped & Offline-First Lightweight CMMS*  
     Offline-capable maintenance manager engineered for isolated workshops and SME facilities. Provides KPI dashboards, spare parts inventories, corrective and preventive maintenance workflows, visual calendar schedules, and local SQLite data persistence.  
     `License: GPL-3.0` | `Stack: Python / Flask / SQLite`
@@ -180,7 +180,7 @@ Contributions from maintenance professionals, software architects, and reliabili
    ```
 3. 📝 **Add or update an entry in `README.md`**:
    - Maintain table formatting for SaaS tools (include exact starting pricing and specific free trial terms).
-   - For open-source projects, include the official repository link, star badge (`style=social&color=white`), licensing, and tech stack details.
+   - For open-source projects, include the official repository link, Stars_Badge (`style=social&color=white`), licensing, and tech stack details.
    - Keep descriptions objective, factual, and focused on core capabilities.
 4. 🚀 **Commit your changes and open a Pull Request** with a brief summary of the addition.
 
